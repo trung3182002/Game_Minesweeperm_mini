@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/5-16/JavaApplication3/src/view/GameFrame.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/BXH_admin.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/HD_GUI.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/model/LoadData.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/view/PanelNotification.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/DangNhap_GUI.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/view/LableNumber.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/pojo/DIEM.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/TrangChu.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/dao/SQLSeverDataProvider.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/view/GamePanel.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/view/ButtonSmile.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/control/World.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/dao/QL_TaiKhoanDAO.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/QLBXH_GUI.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/pojo/CHEDO.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/view/ButtonPlay.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/BXH.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/NguoiDung.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/DangKy_GUI.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/pojo/TAIKHOAN.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/BXH_GUI.java</file>
+            <file>file:/D:/5-16/JavaApplication3/src/gui/QLTaiKHoan_GUI.java</file>
+        </group>
+    </open-files>
+</project-private>
